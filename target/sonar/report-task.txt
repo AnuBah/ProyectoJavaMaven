@@ -1,0 +1,7 @@
+organization=anubah
+projectKey=AnuBah_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=AnuBah_ProyectoJavaMaven
+ceTaskId=AXqsVS9bhLK6o3fss932
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqsVS9bhLK6o3fss932
